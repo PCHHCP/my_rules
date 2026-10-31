@@ -35,6 +35,7 @@ payload:
   # AT&T
   - DOMAIN-KEYWORD,epdg.epc.mnc410.mcc310
   - DOMAIN-KEYWORD,epdg.epc.mnc150.mcc311
+  - DOMAIN-KEYWORD,epdg.epc.att.net:500
   - DOMAIN-KEYWORD,epdg.epc.att.net:4500
   - DOMAIN-SUFFIX,attwifi.com
   # Verizon
